@@ -123,8 +123,13 @@
              var map = new ol.Map({
                         target: 'map',
                         layers: [
-                            new ol.layer.Tile({
-                                 source: new ol.source.OSM()
+                              new ol.layer.Tile({
+                                        title: 'Mapbox light',
+                                        type: 'base',
+                                        visible:true,
+                                        source: new ol.source.XYZ({
+                                         url: 'https://api.mapbox.com/styles/v1/mapbox/light-v9/tiles/256/{z}/{x}/{y}?access_token=pk.eyJ1Ijoid2lsbGNtY2N1c2tlciIsImEiOiJjaXF0c2hseGswMDZtZnhuaHlwdmdiOXM1In0._0qo-NTp7TGotAhL6sa4Og', //light
+                                       })
                                     }),viirs_15],
                             view: new ol.View({
                             center: ol.proj.transform([73.30000, 18.99910], 'EPSG:4326', 'EPSG:3857'),
