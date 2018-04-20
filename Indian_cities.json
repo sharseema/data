@@ -1,0 +1,3186 @@
+[
+
+	{
+		"City": "Yavatmal",
+		"Latitude__": 20.4,
+		"Longitude": 78.133,
+		"type": "Point",
+		"coordinates": [78.133, 20.4]
+	},
+	{
+		"City": "Yamunanagar",
+		"Latitude__": 30.1,
+		"Longitude": 77.283,
+		"type": "Point",
+		"coordinates": [77.283, 30.1]
+	},
+	{
+		"City": "Wardha",
+		"Latitude__": 20.75,
+		"Longitude": 78.616,
+		"type": "Point",
+		"coordinates": [78.616, 20.75]
+	},
+	{
+		"City": "Warangal",
+		"Latitude__": 18.0,
+		"Longitude": 79.583,
+		"type": "Point",
+		"coordinates": [79.583, 18.0]
+	},
+	{
+		"City": "Vizianagaram",
+		"Latitude__": 18.116,
+		"Longitude": 83.416,
+		"type": "Point",
+		"coordinates": [83.416, 18.116]
+	},
+	{
+		"City": "Vijayawada",
+		"Latitude__": 16.516,
+		"Longitude": 80.616,
+		"type": "Point",
+		"coordinates": [80.616, 16.516]
+	},
+	{
+		"City": "Vidisha",
+		"Latitude__": 23.533,
+		"Longitude": 77.816,
+		"type": "Point",
+		"coordinates": [77.816, 23.533]
+	},
+	{
+		"City": "Veraval",
+		"Latitude__": 20.9,
+		"Longitude": 70.366,
+		"type": "Point",
+		"coordinates": [70.366, 20.9]
+	},
+	{
+		"City": "Vellore",
+		"Latitude__": 12.933,
+		"Longitude": 79.133,
+		"type": "Point",
+		"coordinates": [79.133, 12.933]
+	},
+	{
+		"City": "Varanasi",
+		"Latitude__": 25.333,
+		"Longitude": 83.0,
+		"type": "Point",
+		"coordinates": [83.0, 25.333]
+	},
+	{
+		"City": "Vapi",
+		"Latitude__": 20.371,
+		"Longitude": 72.904,
+		"type": "Point",
+		"coordinates": [72.904, 20.371]
+	},
+
+	{
+		"City": "Vaniyambadi",
+		"Latitude__": 12.683,
+		"Longitude": 78.616,
+		"type": "Point",
+		"coordinates": [78.616, 12.683]
+	},
+
+	{
+		"City": "Valsad",
+		"Latitude__": 20.633,
+		"Longitude": 72.933,
+		"type": "Point",
+		"coordinates": [72.933, 20.633]
+	},
+
+	{
+		"City": "Vadodara",
+		"Latitude__": 22.3,
+		"Longitude": 73.2,
+		"type": "Point",
+		"coordinates": [73.2, 22.3]
+	},
+
+	{
+		"City": "Unnao",
+		"Latitude__": 26.533,
+		"Longitude": 80.5,
+		"type": "Point",
+		"coordinates": [80.5, 26.533]
+	},
+
+	{
+		"City": "Ujjain",
+		"Latitude__": 23.183,
+		"Longitude": 75.766,
+		"type": "Point",
+		"coordinates": [75.766, 23.183]
+	},
+
+	{
+		"City": "Udupi",
+		"Latitude__": 13.35,
+		"Longitude": 74.75,
+		"type": "Point",
+		"coordinates": [74.75, 13.35]
+	},
+	{
+		"City": "Udhagamandalam",
+		"Latitude__": 11.4,
+		"Longitude": 76.7,
+		"type": "Point",
+		"coordinates": [76.7, 11.4]
+	},
+	{
+		"City": "Udgir",
+		"Latitude__": 18.383,
+		"Longitude": 77.116,
+		"type": "Point",
+		"coordinates": [77.116, 18.383]
+	},
+	{
+		"City": "Udaipur",
+		"Latitude__": 23.533,
+		"Longitude": 91.483,
+		"type": "Point",
+		"coordinates": [91.483, 23.533]
+	},
+	{
+		"City": "Tumkur",
+		"Latitude__": 13.342,
+		"Longitude": 77.101,
+		"type": "Point",
+		"coordinates": [77.101, 13.342]
+	},
+	{
+		"City": "Tonk",
+		"Latitude__": 26.166,
+		"Longitude": 75.783,
+		"type": "Point",
+		"coordinates": [75.783, 26.166]
+	},
+	{
+		"City": "Tiruvannamalai",
+		"Latitude__": 12.216,
+		"Longitude": 79.066,
+		"type": "Point",
+		"coordinates": [79.066, 12.216]
+	},
+	{
+		"City": "Tiruppur",
+		"Latitude__": 11.1,
+		"Longitude": 77.35,
+		"type": "Point",
+		"coordinates": [77.35, 11.1]
+	},
+	{
+		"City": "Tirupati",
+		"Latitude__": 13.65,
+		"Longitude": 79.416,
+		"type": "Point",
+		"coordinates": [79.416, 13.65]
+	},
+	{
+		"City": "Tirunelveli",
+		"Latitude__": 8.733,
+		"Longitude": 77.7,
+		"type": "Point",
+		"coordinates": [77.7, 8.733]
+	},
+	{
+		"City": "Tiruchirappalli",
+		"Latitude__": 10.816,
+		"Longitude": 78.683,
+		"type": "Point",
+		"coordinates": [78.683, 10.816]
+	},
+	{
+		"City": "Tinsukia",
+		"Latitude__": 27.5,
+		"Longitude": 95.366,
+		"type": "Point",
+		"coordinates": [95.366, 27.5]
+	},
+	{
+		"City": "Thrissur",
+		"Latitude__": 10.516,
+		"Longitude": 76.216,
+		"type": "Point",
+		"coordinates": [76.216, 10.516]
+	},
+	{
+		"City": "Thiruvananthapuram",
+		"Latitude__": 8.483,
+		"Longitude": 76.916,
+		"type": "Point",
+		"coordinates": [76.916, 8.483]
+	},
+	{
+		"City": "Thanjavur",
+		"Latitude__": 10.8,
+		"Longitude": 79.15,
+		"type": "Point",
+		"coordinates": [79.15, 10.8]
+	},
+	{
+		"City": "Thanesar",
+		"Latitude__": 29.983,
+		"Longitude": 76.816,
+		"type": "Point",
+		"coordinates": [76.816, 29.983]
+	},
+	{
+		"City": "Tezpur",
+		"Latitude__": 26.633,
+		"Longitude": 92.8,
+		"type": "Point",
+		"coordinates": [92.8, 26.633]
+	},
+	{
+		"City": "Tadpatri",
+		"Latitude__": 14.916,
+		"Longitude": 78.016,
+		"type": "Point",
+		"coordinates": [78.016, 14.916]
+	},
+	{
+		"City": "Surat",
+		"Latitude__": 21.166,
+		"Longitude": 72.833,
+		"type": "Point",
+		"coordinates": [72.833, 21.166]
+	},
+	{
+		"City": "Srikakulam",
+		"Latitude__": 18.3,
+		"Longitude": 83.9,
+		"type": "Point",
+		"coordinates": [83.9, 18.3]
+	},
+	{
+		"City": "Sonipat",
+		"Latitude__": 28.983,
+		"Longitude": 77.016,
+		"type": "Point",
+		"coordinates": [77.016, 28.983]
+	},
+	{
+		"City": "Solapur",
+		"Latitude__": 17.683,
+		"Longitude": 75.916,
+		"type": "Point",
+		"coordinates": [75.916, 17.683]
+	},
+	{
+		"City": "Siwan",
+		"Latitude__": 26.216,
+		"Longitude": 84.366,
+		"type": "Point",
+		"coordinates": [84.366, 26.216]
+	},
+	{
+		"City": "Sivakasi",
+		"Latitude__": 9.45,
+		"Longitude": 77.816,
+		"type": "Point",
+		"coordinates": [77.816, 9.45]
+	},
+	{
+		"City": "Sitapur",
+		"Latitude__": 27.566,
+		"Longitude": 80.683,
+		"type": "Point",
+		"coordinates": [80.683, 27.566]
+	},
+	{
+		"City": "Sitamarhi",
+		"Latitude__": 26.6,
+		"Longitude": 85.483,
+		"type": "Point",
+		"coordinates": [85.483, 26.6]
+	},
+	{
+		"City": "Sirsa",
+		"Latitude__": 29.533,
+		"Longitude": 75.016,
+		"type": "Point",
+		"coordinates": [75.016, 29.533]
+	},
+	{
+		"City": "Singrauli",
+		"Latitude__": 24.199,
+		"Longitude": 82.675,
+		"type": "Point",
+		"coordinates": [82.675, 24.199]
+	},
+	{
+		"City": "Siliguri",
+		"Latitude__": 26.7,
+		"Longitude": 88.433,
+		"type": "Point",
+		"coordinates": [88.433, 26.7]
+	},
+	{
+		"City": "Silchar",
+		"Latitude__": 24.816,
+		"Longitude": 92.8,
+		"type": "Point",
+		"coordinates": [92.8, 24.816]
+	},
+	{
+		"City": "Sikar",
+		"Latitude__": 27.616,
+		"Longitude": 75.15,
+		"type": "Point",
+		"coordinates": [75.15, 27.616]
+	},
+	{
+		"City": "Siddipet",
+		"Latitude__": 18.1,
+		"Longitude": 78.85,
+		"type": "Point",
+		"coordinates": [78.85, 18.1]
+	},
+	{
+		"City": "Shivpuri",
+		"Latitude__": 25.433,
+		"Longitude": 77.65,
+		"type": "Point",
+		"coordinates": [77.65, 25.433]
+	},
+	{
+		"City": "Shimoga",
+		"Latitude__": 13.916,
+		"Longitude": 75.566,
+		"type": "Point",
+		"coordinates": [75.566, 13.916]
+	},
+	{
+		"City": "Shimla",
+		"Latitude__": 31.1,
+		"Longitude": 77.166,
+		"type": "Point",
+		"coordinates": [77.166, 31.1]
+	},
+	{
+		"City": "Shillong",
+		"Latitude__": 25.568,
+		"Longitude": 91.883,
+		"type": "Point",
+		"coordinates": [91.883, 25.568]
+	},
+	{
+		"City": "Shikohabad",
+		"Latitude__": 27.1,
+		"Longitude": 78.6,
+		"type": "Point",
+		"coordinates": [78.6, 27.1]
+	},
+	{
+		"City": "Shamli",
+		"Latitude__": 29.45,
+		"Longitude": 77.316,
+		"type": "Point",
+		"coordinates": [77.316, 29.45]
+	},
+	{
+		"City": "Shahjahanpur",
+		"Latitude__": 27.883,
+		"Longitude": 79.916,
+		"type": "Point",
+		"coordinates": [79.916, 27.883]
+	},
+	{
+		"City": "Seoni",
+		"Latitude__": 22.083,
+		"Longitude": 79.533,
+		"type": "Point",
+		"coordinates": [79.533, 22.083]
+	},
+	{
+		"City": "Sehore",
+		"Latitude__": 23.2,
+		"Longitude": 77.083,
+		"type": "Point",
+		"coordinates": [77.083, 23.2]
+	},
+	{
+		"City": "Sawai Madhopur",
+		"Latitude__": 25.983,
+		"Longitude": 76.366,
+		"type": "Point",
+		"coordinates": [76.366, 25.983]
+	},
+	{
+		"City": "Satna",
+		"Latitude__": 24.583,
+		"Longitude": 80.833,
+		"type": "Point",
+		"coordinates": [80.833, 24.583]
+	},
+	{
+		"City": "Satara",
+		"Latitude__": 17.683,
+		"Longitude": 73.983,
+		"type": "Point",
+		"coordinates": [73.983, 17.683]
+	},
+	{
+		"City": "Sambhal",
+		"Latitude__": 28.583,
+		"Longitude": 78.55,
+		"type": "Point",
+		"coordinates": [78.55, 28.583]
+	},
+	{
+		"City": "Sambalpur",
+		"Latitude__": 21.45,
+		"Longitude": 83.966,
+		"type": "Point",
+		"coordinates": [83.966, 21.45]
+	},
+	{
+		"City": "Salem",
+		"Latitude__": 11.65,
+		"Longitude": 78.166,
+		"type": "Point",
+		"coordinates": [78.166, 11.65]
+	},
+	{
+		"City": "Saharsa",
+		"Latitude__": 25.883,
+		"Longitude": 86.6,
+		"type": "Point",
+		"coordinates": [86.6, 25.883]
+	},
+	{
+		"City": "Saharanpur",
+		"Latitude__": 29.966,
+		"Longitude": 77.55,
+		"type": "Point",
+		"coordinates": [77.55, 29.966]
+	},
+	{
+		"City": "Roorkee",
+		"Latitude__": 29.866,
+		"Longitude": 77.883,
+		"type": "Point",
+		"coordinates": [77.883, 29.866]
+	},
+	{
+		"City": "Rohtak",
+		"Latitude__": 28.9,
+		"Longitude": 76.566,
+		"type": "Point",
+		"coordinates": [76.566, 28.9]
+	},
+	{
+		"City": "Robertson Pet",
+		"Latitude__": 12.966,
+		"Longitude": 78.283,
+		"type": "Point",
+		"coordinates": [78.283, 12.966]
+	},
+	{
+		"City": "Rishikesh",
+		"Latitude__": 30.116,
+		"Longitude": 78.316,
+		"type": "Point",
+		"coordinates": [78.316, 30.116]
+	},
+	{
+		"City": "Rewari",
+		"Latitude__": 28.183,
+		"Longitude": 76.616,
+		"type": "Point",
+		"coordinates": [76.616, 28.183]
+	},
+	{
+		"City": "Rewa",
+		"Latitude__": 24.533,
+		"Longitude": 81.3,
+		"type": "Point",
+		"coordinates": [81.3, 24.533]
+	},
+	{
+		"City": "Ratlam",
+		"Latitude__": 23.316,
+		"Longitude": 75.066,
+		"type": "Point",
+		"coordinates": [75.066, 23.316]
+	},
+	{
+		"City": "Ranibennur",
+		"Latitude__": 14.616,
+		"Longitude": 75.616,
+		"type": "Point",
+		"coordinates": [75.616, 14.616]
+	},
+	{
+		"City": "Ranchi",
+		"Latitude__": 23.35,
+		"Longitude": 85.333,
+		"type": "Point",
+		"coordinates": [85.333, 23.35]
+	},
+	{
+		"City": "Ranaghat",
+		"Latitude__": 23.183,
+		"Longitude": 88.583,
+		"type": "Point",
+		"coordinates": [88.583, 23.183]
+	},
+	{
+		"City": "Rajnandgaon",
+		"Latitude__": 21.1,
+		"Longitude": 81.033,
+		"type": "Point",
+		"coordinates": [81.033, 21.1]
+	},
+	{
+		"City": "Rajkot",
+		"Latitude__": 22.3,
+		"Longitude": 70.783,
+		"type": "Point",
+		"coordinates": [70.783, 22.3]
+	},
+	{
+		"City": "Rajahmundry",
+		"Latitude__": 16.983,
+		"Longitude": 81.783,
+		"type": "Point",
+		"coordinates": [81.783, 16.983]
+	},
+	{
+		"City": "Raigarh",
+		"Latitude__": 21.9,
+		"Longitude": 83.4,
+		"type": "Point",
+		"coordinates": [83.4, 21.9]
+	},
+	{
+		"City": "Raiganj",
+		"Latitude__": 25.616,
+		"Longitude": 88.116,
+		"type": "Point",
+		"coordinates": [88.116, 25.616]
+	},
+	{
+		"City": "Raichur",
+		"Latitude__": 16.2,
+		"Longitude": 77.366,
+		"type": "Point",
+		"coordinates": [77.366, 16.2]
+	},
+	{
+		"City": "Rae Bareli",
+		"Latitude__": 26.216,
+		"Longitude": 81.233,
+		"type": "Point",
+		"coordinates": [81.233, 26.216]
+	},
+	{
+		"City": "Puruliya",
+		"Latitude__": 23.333,
+		"Longitude": 86.366,
+		"type": "Point",
+		"coordinates": [86.366, 23.333]
+	},
+	{
+		"City": "Purnia",
+		"Latitude__": 25.783,
+		"Longitude": 87.466,
+		"type": "Point",
+		"coordinates": [87.466, 25.783]
+	},
+	{
+		"City": "Pune",
+		"Latitude__": 18.519,
+		"Longitude": 73.855,
+		"type": "Point",
+		"coordinates": [73.855, 18.519]
+	},
+	{
+		"City": "Pudukkottai",
+		"Latitude__": 10.383,
+		"Longitude": 78.816,
+		"type": "Point",
+		"coordinates": [78.816, 10.383]
+	},
+	{
+		"City": "Puducherry",
+		"Latitude__": 11.93,
+		"Longitude": 79.83,
+		"type": "Point",
+		"coordinates": [79.83, 11.93]
+	},
+	{
+		"City": "Proddatur",
+		"Latitude__": 14.733,
+		"Longitude": 78.55,
+		"type": "Point",
+		"coordinates": [78.55, 14.733]
+	},
+	{
+		"City": "Port Blair",
+		"Latitude__": 11.666,
+		"Longitude": 92.75,
+		"type": "Point",
+		"coordinates": [92.75, 11.666]
+	},
+	{
+		"City": "Porbandar",
+		"Latitude__": 21.642,
+		"Longitude": 69.609,
+		"type": "Point",
+		"coordinates": [69.609, 21.642]
+	},
+	{
+		"City": "Pollachi",
+		"Latitude__": 10.666,
+		"Longitude": 77.016,
+		"type": "Point",
+		"coordinates": [77.016, 10.666]
+	},
+	{
+		"City": "Pithampur",
+		"Latitude__": 22.601,
+		"Longitude": 75.696,
+		"type": "Point",
+		"coordinates": [75.696, 22.601]
+	},
+	{
+		"City": "Pilibhit",
+		"Latitude__": 28.633,
+		"Longitude": 79.8,
+		"type": "Point",
+		"coordinates": [79.8, 28.633]
+	},
+	{
+		"City": "Phagwara",
+		"Latitude__": 31.217,
+		"Longitude": 75.769,
+		"type": "Point",
+		"coordinates": [75.769, 31.217]
+	},
+	{
+		"City": "Patna",
+		"Latitude__": 25.6,
+		"Longitude": 85.116,
+		"type": "Point",
+		"coordinates": [85.116, 25.6]
+	},
+	{
+		"City": "Patiala",
+		"Latitude__": 30.326,
+		"Longitude": 76.4,
+		"type": "Point",
+		"coordinates": [76.4, 30.326]
+	},
+	{
+		"City": "Pathankot",
+		"Latitude__": 32.283,
+		"Longitude": 75.65,
+		"type": "Point",
+		"coordinates": [75.65, 32.283]
+	},
+	{
+		"City": "Patan",
+		"Latitude__": 23.833,
+		"Longitude": 72.116,
+		"type": "Point",
+		"coordinates": [72.116, 23.833]
+	},
+	{
+		"City": "Parbhani",
+		"Latitude__": 19.266,
+		"Longitude": 76.783,
+		"type": "Point",
+		"coordinates": [76.783, 19.266]
+	},
+	{
+		"City": "Panvel",
+		"Latitude__": 18.983,
+		"Longitude": 73.1,
+		"type": "Point",
+		"coordinates": [73.1, 18.983]
+	},
+	{
+		"City": "Panipat",
+		"Latitude__": 29.388,
+		"Longitude": 76.968,
+		"type": "Point",
+		"coordinates": [76.968, 29.388]
+	},
+	{
+		"City": "Panaji",
+		"Latitude__": 15.483,
+		"Longitude": 73.833,
+		"type": "Point",
+		"coordinates": [73.833, 15.483]
+	},
+	{
+		"City": "Palwal",
+		"Latitude__": 28.15,
+		"Longitude": 77.333,
+		"type": "Point",
+		"coordinates": [77.333, 28.15]
+	},
+	{
+		"City": "Palanpur",
+		"Latitude__": 24.166,
+		"Longitude": 72.433,
+		"type": "Point",
+		"coordinates": [72.433, 24.166]
+	},
+	{
+		"City": "Palakkad",
+		"Latitude__": 10.783,
+		"Longitude": 76.65,
+		"type": "Point",
+		"coordinates": [76.65, 10.783]
+	},
+	{
+		"City": "Ottappalam",
+		"Latitude__": 10.766,
+		"Longitude": 76.383,
+		"type": "Point",
+		"coordinates": [76.383, 10.766]
+	},
+	{
+		"City": "Osmanabad",
+		"Latitude__": 18.166,
+		"Longitude": 76.05,
+		"type": "Point",
+		"coordinates": [76.05, 18.166]
+	},
+	{
+		"City": "Orai",
+		"Latitude__": 25.983,
+		"Longitude": 79.466,
+		"type": "Point",
+		"coordinates": [79.466, 25.983]
+	},
+	{
+		"City": "Ongole",
+		"Latitude__": 15.5,
+		"Longitude": 80.05,
+		"type": "Point",
+		"coordinates": [80.05, 15.5]
+	},
+	{
+		"City": "Noida",
+		"Latitude__": 28.58,
+		"Longitude": 77.33,
+		"type": "Point",
+		"coordinates": [77.33, 28.58]
+	},
+	{
+		"City": "Nizamabad",
+		"Latitude__": 18.666,
+		"Longitude": 78.116,
+		"type": "Point",
+		"coordinates": [78.116, 18.666]
+	},
+	{
+		"City": "Nellore",
+		"Latitude__": 14.433,
+		"Longitude": 79.966,
+		"type": "Point",
+		"coordinates": [79.966, 14.433]
+	},
+	{
+		"City": "Nawada",
+		"Latitude__": 24.883,
+		"Longitude": 85.533,
+		"type": "Point",
+		"coordinates": [85.533, 24.883]
+	},
+	{
+		"City": "Nashik",
+		"Latitude__": 19.983,
+		"Longitude": 73.8,
+		"type": "Point",
+		"coordinates": [73.8, 19.983]
+	},
+	{
+		"City": "Narasaraopet",
+		"Latitude__": 16.25,
+		"Longitude": 80.066,
+		"type": "Point",
+		"coordinates": [80.066, 16.25]
+	},
+	{
+		"City": "Nandyal",
+		"Latitude__": 15.483,
+		"Longitude": 78.483,
+		"type": "Point",
+		"coordinates": [78.483, 15.483]
+	},
+	{
+		"City": "Nandurbar",
+		"Latitude__": 21.366,
+		"Longitude": 74.25,
+		"type": "Point",
+		"coordinates": [74.25, 21.366]
+	},
+	{
+		"City": "Nalgonda",
+		"Latitude__": 17.05,
+		"Longitude": 79.266,
+		"type": "Point",
+		"coordinates": [79.266, 17.05]
+	},
+	{
+		"City": "Nagpur",
+		"Latitude__": 21.15,
+		"Longitude": 79.1,
+		"type": "Point",
+		"coordinates": [79.1, 21.15]
+	},
+	{
+		"City": "Nagercoil",
+		"Latitude__": 8.166,
+		"Longitude": 77.433,
+		"type": "Point",
+		"coordinates": [77.433, 8.166]
+	},
+	{
+		"City": "Nagda",
+		"Latitude__": 23.45,
+		"Longitude": 75.416,
+		"type": "Point",
+		"coordinates": [75.416, 23.45]
+	},
+	{
+		"City": "Nagaur",
+		"Latitude__": 27.2,
+		"Longitude": 73.733,
+		"type": "Point",
+		"coordinates": [73.733, 27.2]
+	},
+	{
+		"City": "Nagapattinam",
+		"Latitude__": 10.766,
+		"Longitude": 79.833,
+		"type": "Point",
+		"coordinates": [79.833, 10.766]
+	},
+	{
+		"City": "Nadiad",
+		"Latitude__": 22.7,
+		"Longitude": 72.866,
+		"type": "Point",
+		"coordinates": [72.866, 22.7]
+	},
+	{
+		"City": "Nabadwip",
+		"Latitude__": 23.416,
+		"Longitude": 88.366,
+		"type": "Point",
+		"coordinates": [88.366, 23.416]
+	},
+	{
+		"City": "Mysore",
+		"Latitude__": 12.307,
+		"Longitude": 76.649,
+		"type": "Point",
+		"coordinates": [76.649, 12.307]
+	},
+	{
+		"City": "Muzaffarpur",
+		"Latitude__": 26.116,
+		"Longitude": 85.4,
+		"type": "Point",
+		"coordinates": [85.4, 26.116]
+	},
+	{
+		"City": "Muzaffarnagar",
+		"Latitude__": 29.466,
+		"Longitude": 77.683,
+		"type": "Point",
+		"coordinates": [77.683, 29.466]
+	},
+	{
+		"City": "Munger",
+		"Latitude__": 25.383,
+		"Longitude": 86.466,
+		"type": "Point",
+		"coordinates": [86.466, 25.383]
+	},
+	{
+		"City": "Mumbai",
+		"Latitude__": 19.014,
+		"Longitude": 72.847,
+		"type": "Point",
+		"coordinates": [72.847, 19.014]
+	},
+	{
+		"City": "Muktsar",
+		"Latitude__": 30.483,
+		"Longitude": 74.516,
+		"type": "Point",
+		"coordinates": [74.516, 30.483]
+	},
+	{
+		"City": "Mughalsarai",
+		"Latitude__": 25.3,
+		"Longitude": 83.116,
+		"type": "Point",
+		"coordinates": [83.116, 25.3]
+	},
+	{
+		"City": "Mubarakpur",
+		"Latitude__": 26.09,
+		"Longitude": 83.292,
+		"type": "Point",
+		"coordinates": [83.292, 26.09]
+	},
+	{
+		"City": "Motihari",
+		"Latitude__": 26.65,
+		"Longitude": 84.916,
+		"type": "Point",
+		"coordinates": [84.916, 26.65]
+	},
+	{
+		"City": "Morvi",
+		"Latitude__": 22.816,
+		"Longitude": 70.833,
+		"type": "Point",
+		"coordinates": [70.833, 22.816]
+	},
+	{
+		"City": "Morena",
+		"Latitude__": 26.496,
+		"Longitude": 78.0,
+		"type": "Point",
+		"coordinates": [78.0, 26.496]
+	},
+	{
+		"City": "Moradabad",
+		"Latitude__": 28.833,
+		"Longitude": 78.783,
+		"type": "Point",
+		"coordinates": [78.783, 28.833]
+	},
+	{
+		"City": "Moga",
+		"Latitude__": 30.8,
+		"Longitude": 75.166,
+		"type": "Point",
+		"coordinates": [75.166, 30.8]
+	},
+	{
+		"City": "Mirzapur",
+		"Latitude__": 25.15,
+		"Longitude": 82.583,
+		"type": "Point",
+		"coordinates": [82.583, 25.15]
+	},
+	{
+		"City": "Meerut",
+		"Latitude__": 28.983,
+		"Longitude": 77.7,
+		"type": "Point",
+		"coordinates": [77.7, 28.983]
+	},
+	{
+		"City": "Medinipur",
+		"Latitude__": 22.433,
+		"Longitude": 87.333,
+		"type": "Point",
+		"coordinates": [87.333, 22.433]
+	},
+	{
+		"City": "Mathura",
+		"Latitude__": 27.5,
+		"Longitude": 77.683,
+		"type": "Point",
+		"coordinates": [77.683, 27.5]
+	},
+	{
+		"City": "Mangalore",
+		"Latitude__": 12.866,
+		"Longitude": 74.883,
+		"type": "Point",
+		"coordinates": [74.883, 12.866]
+	},
+	{
+		"City": "Mandya",
+		"Latitude__": 12.524,
+		"Longitude": 76.895,
+		"type": "Point",
+		"coordinates": [76.895, 12.524]
+	},
+	{
+		"City": "Mandsaur",
+		"Latitude__": 24.066,
+		"Longitude": 75.066,
+		"type": "Point",
+		"coordinates": [75.066, 24.066]
+	},
+	{
+		"City": "Mancherial",
+		"Latitude__": 18.866,
+		"Longitude": 79.433,
+		"type": "Point",
+		"coordinates": [79.433, 18.866]
+	},
+	{
+		"City": "Malerkotla",
+		"Latitude__": 30.516,
+		"Longitude": 75.883,
+		"type": "Point",
+		"coordinates": [75.883, 30.516]
+	},
+	{
+		"City": "Malegaon",
+		"Latitude__": 20.55,
+		"Longitude": 74.533,
+		"type": "Point",
+		"coordinates": [74.533, 20.55]
+	},
+	{
+		"City": "Malappuram",
+		"Latitude__": 11.066,
+		"Longitude": 76.066,
+		"type": "Point",
+		"coordinates": [76.066, 11.066]
+	},
+	{
+		"City": "Makrana",
+		"Latitude__": 27.05,
+		"Longitude": 74.716,
+		"type": "Point",
+		"coordinates": [74.716, 27.05]
+	},
+	{
+		"City": "Mainpuri",
+		"Latitude__": 27.233,
+		"Longitude": 79.016,
+		"type": "Point",
+		"coordinates": [79.016, 27.233]
+	},
+	{
+		"City": "Mahbubnagar",
+		"Latitude__": 16.733,
+		"Longitude": 77.983,
+		"type": "Point",
+		"coordinates": [77.983, 16.733]
+	},
+	{
+		"City": "Madurai",
+		"Latitude__": 9.933,
+		"Longitude": 78.116,
+		"type": "Point",
+		"coordinates": [78.116, 9.933]
+	},
+	{
+		"City": "Madanapalle",
+		"Latitude__": 13.55,
+		"Longitude": 78.5,
+		"type": "Point",
+		"coordinates": [78.5, 13.55]
+	},
+	{
+		"City": "Machilipatnam",
+		"Latitude__": 16.166,
+		"Longitude": 81.133,
+		"type": "Point",
+		"coordinates": [81.133, 16.166]
+	},
+	{
+		"City": "Ludhiana",
+		"Latitude__": 30.9,
+		"Longitude": 75.85,
+		"type": "Point",
+		"coordinates": [75.85, 30.9]
+	},
+	{
+		"City": "Lucknow",
+		"Latitude__": 26.85,
+		"Longitude": 80.916,
+		"type": "Point",
+		"coordinates": [80.916, 26.85]
+	},
+	{
+		"City": "Latur",
+		"Latitude__": 18.4,
+		"Longitude": 76.583,
+		"type": "Point",
+		"coordinates": [76.583, 18.4]
+	},
+	{
+		"City": "Lalitpur",
+		"Latitude__": 24.683,
+		"Longitude": 78.416,
+		"type": "Point",
+		"coordinates": [78.416, 24.683]
+	},
+	{
+		"City": "Lakhimpur",
+		"Latitude__": 27.95,
+		"Longitude": 80.766,
+		"type": "Point",
+		"coordinates": [80.766, 27.95]
+	},
+	{
+		"City": "Kumbakonam",
+		"Latitude__": 10.966,
+		"Longitude": 79.383,
+		"type": "Point",
+		"coordinates": [79.383, 10.966]
+	},
+	{
+		"City": "Krishnanagar",
+		"Latitude__": 23.4,
+		"Longitude": 88.5,
+		"type": "Point",
+		"coordinates": [88.5, 23.4]
+	},
+	{
+		"City": "Kozhikode",
+		"Latitude__": 11.25,
+		"Longitude": 75.766,
+		"type": "Point",
+		"coordinates": [75.766, 11.25]
+	},
+	{
+		"City": "Kottayam",
+		"Latitude__": 9.583,
+		"Longitude": 76.516,
+		"type": "Point",
+		"coordinates": [76.516, 9.583]
+	},
+	{
+		"City": "Korba",
+		"Latitude__": 22.35,
+		"Longitude": 82.683,
+		"type": "Point",
+		"coordinates": [82.683, 22.35]
+	},
+	{
+		"City": "Kollam",
+		"Latitude__": 8.883,
+		"Longitude": 76.6,
+		"type": "Point",
+		"coordinates": [76.6, 8.883]
+	},
+	{
+		"City": "Kolkata",
+		"Latitude__": 22.569,
+		"Longitude": 88.369,
+		"type": "Point",
+		"coordinates": [88.369, 22.569]
+	},
+	{
+		"City": "Kolhapur",
+		"Latitude__": 16.7,
+		"Longitude": 74.216,
+		"type": "Point",
+		"coordinates": [74.216, 16.7]
+	},
+	{
+		"City": "Kolar",
+		"Latitude__": 13.133,
+		"Longitude": 78.133,
+		"type": "Point",
+		"coordinates": [78.133, 13.133]
+	},
+	{
+		"City": "Kochi",
+		"Latitude__": 9.966,
+		"Longitude": 76.233,
+		"type": "Point",
+		"coordinates": [76.233, 9.966]
+	},
+	{
+		"City": "Koch Bihar",
+		"Latitude__": 26.316,
+		"Longitude": 89.433,
+		"type": "Point",
+		"coordinates": [89.433, 26.316]
+	},
+	{
+		"City": "Kishangarh",
+		"Latitude__": 26.566,
+		"Longitude": 74.866,
+		"type": "Point",
+		"coordinates": [74.866, 26.566]
+	},
+	{
+		"City": "Kishanganj",
+		"Latitude__": 26.116,
+		"Longitude": 87.933,
+		"type": "Point",
+		"coordinates": [87.933, 26.116]
+	},
+	{
+		"City": "Khurja",
+		"Latitude__": 28.25,
+		"Longitude": 77.85,
+		"type": "Point",
+		"coordinates": [77.85, 28.25]
+	},
+	{
+		"City": "Khargone",
+		"Latitude__": 21.816,
+		"Longitude": 75.6,
+		"type": "Point",
+		"coordinates": [75.6, 21.816]
+	},
+	{
+		"City": "Khanna",
+		"Latitude__": 30.704,
+		"Longitude": 76.223,
+		"type": "Point",
+		"coordinates": [76.223, 30.704]
+	},
+	{
+		"City": "Khandwa",
+		"Latitude__": 21.833,
+		"Longitude": 76.333,
+		"type": "Point",
+		"coordinates": [76.333, 21.833]
+	},
+	{
+		"City": "Khammam",
+		"Latitude__": 17.25,
+		"Longitude": 80.15,
+		"type": "Point",
+		"coordinates": [80.15, 17.25]
+	},
+	{
+		"City": "Kayamkulam",
+		"Latitude__": 9.183,
+		"Longitude": 76.5,
+		"type": "Point",
+		"coordinates": [76.5, 9.183]
+	},
+	{
+		"City": "Katihar",
+		"Latitude__": 25.533,
+		"Longitude": 87.583,
+		"type": "Point",
+		"coordinates": [87.583, 25.533]
+	},
+	{
+		"City": "Kashipur",
+		"Latitude__": 29.216,
+		"Longitude": 78.95,
+		"type": "Point",
+		"coordinates": [78.95, 29.216]
+	},
+	{
+		"City": "Kasganj",
+		"Latitude__": 27.816,
+		"Longitude": 78.65,
+		"type": "Point",
+		"coordinates": [78.65, 27.816]
+	},
+	{
+		"City": "Kasaragod",
+		"Latitude__": 12.5,
+		"Longitude": 75.0,
+		"type": "Point",
+		"coordinates": [75.0, 12.5]
+	},
+	{
+		"City": "Karur",
+		"Latitude__": 10.95,
+		"Longitude": 78.083,
+		"type": "Point",
+		"coordinates": [78.083, 10.95]
+	},
+	{
+		"City": "Karnal",
+		"Latitude__": 29.683,
+		"Longitude": 76.983,
+		"type": "Point",
+		"coordinates": [76.983, 29.683]
+	},
+	{
+		"City": "Karimnagar",
+		"Latitude__": 18.433,
+		"Longitude": 79.15,
+		"type": "Point",
+		"coordinates": [79.15, 18.433]
+	},
+	{
+		"City": "Karaikkudi",
+		"Latitude__": 10.066,
+		"Longitude": 78.783,
+		"type": "Point",
+		"coordinates": [78.783, 10.066]
+	},
+	{
+		"City": "Kapurthala",
+		"Latitude__": 31.379,
+		"Longitude": 75.384,
+		"type": "Point",
+		"coordinates": [75.384, 31.379]
+	},
+	{
+		"City": "Kanpur",
+		"Latitude__": 26.466,
+		"Longitude": 80.35,
+		"type": "Point",
+		"coordinates": [80.35, 26.466]
+	},
+	{
+		"City": "Kannur",
+		"Latitude__": 11.867,
+		"Longitude": 75.357,
+		"type": "Point",
+		"coordinates": [75.357, 11.867]
+	},
+	{
+		"City": "Kanhangad",
+		"Latitude__": 12.308,
+		"Longitude": 75.106,
+		"type": "Point",
+		"coordinates": [75.106, 12.308]
+	},
+	{
+		"City": "Kakinada",
+		"Latitude__": 16.933,
+		"Longitude": 82.216,
+		"type": "Point",
+		"coordinates": [82.216, 16.933]
+	},
+	{
+		"City": "Kaithal",
+		"Latitude__": 29.8,
+		"Longitude": 76.383,
+		"type": "Point",
+		"coordinates": [76.383, 29.8]
+	},
+	{
+		"City": "Kadapa",
+		"Latitude__": 14.466,
+		"Longitude": 78.816,
+		"type": "Point",
+		"coordinates": [78.816, 14.466]
+	},
+	{
+		"City": "Junagadh",
+		"Latitude__": 21.516,
+		"Longitude": 70.466,
+		"type": "Point",
+		"coordinates": [70.466, 21.516]
+	},
+	{
+		"City": "Jorhat",
+		"Latitude__": 26.75,
+		"Longitude": 94.216,
+		"type": "Point",
+		"coordinates": [94.216, 26.75]
+	},
+	{
+		"City": "Jind",
+		"Latitude__": 29.316,
+		"Longitude": 76.316,
+		"type": "Point",
+		"coordinates": [76.316, 29.316]
+	},
+	{
+		"City": "Jhunjhunun",
+		"Latitude__": 28.13,
+		"Longitude": 75.401,
+		"type": "Point",
+		"coordinates": [75.401, 28.13]
+	},
+	{
+		"City": "Jhansi",
+		"Latitude__": 25.433,
+		"Longitude": 78.583,
+		"type": "Point",
+		"coordinates": [78.583, 25.433]
+	},
+	{
+		"City": "Jaunpur",
+		"Latitude__": 25.733,
+		"Longitude": 82.683,
+		"type": "Point",
+		"coordinates": [82.683, 25.733]
+	},
+	{
+		"City": "Jangipur",
+		"Latitude__": 24.466,
+		"Longitude": 88.066,
+		"type": "Point",
+		"coordinates": [88.066, 24.466]
+	},
+	{
+		"City": "Jamshedpur",
+		"Latitude__": 22.8,
+		"Longitude": 86.183,
+		"type": "Point",
+		"coordinates": [86.183, 22.8]
+	},
+	{
+		"City": "Jamnagar",
+		"Latitude__": 22.466,
+		"Longitude": 70.066,
+		"type": "Point",
+		"coordinates": [70.066, 22.466]
+	},
+	{
+		"City": "Jammu",
+		"Latitude__": 32.733,
+		"Longitude": 74.866,
+		"type": "Point",
+		"coordinates": [74.866, 32.733]
+	},
+	{
+		"City": "Jamalpur",
+		"Latitude__": 25.3,
+		"Longitude": 86.5,
+		"type": "Point",
+		"coordinates": [86.5, 25.3]
+	},
+	{
+		"City": "Jalpaiguri",
+		"Latitude__": 26.516,
+		"Longitude": 88.733,
+		"type": "Point",
+		"coordinates": [88.733, 26.516]
+	},
+	{
+		"City": "Jalna",
+		"Latitude__": 19.833,
+		"Longitude": 75.883,
+		"type": "Point",
+		"coordinates": [75.883, 19.833]
+	},
+	{
+		"City": "Jalandhar",
+		"Latitude__": 31.325,
+		"Longitude": 75.579,
+		"type": "Point",
+		"coordinates": [75.579, 31.325]
+	},
+	{
+		"City": "Jaipur",
+		"Latitude__": 26.916,
+		"Longitude": 75.816,
+		"type": "Point",
+		"coordinates": [75.816, 26.916]
+	},
+	{
+		"City": "Jagtial",
+		"Latitude__": 18.8,
+		"Longitude": 78.933,
+		"type": "Point",
+		"coordinates": [78.933, 18.8]
+	},
+	{
+		"City": "Jagdalpur",
+		"Latitude__": 19.066,
+		"Longitude": 82.033,
+		"type": "Point",
+		"coordinates": [82.033, 19.066]
+	},
+	{
+		"City": "Jabalpur",
+		"Latitude__": 23.166,
+		"Longitude": 79.95,
+		"type": "Point",
+		"coordinates": [79.95, 23.166]
+	},
+	{
+		"City": "Itarsi",
+		"Latitude__": 22.616,
+		"Longitude": 77.75,
+		"type": "Point",
+		"coordinates": [77.75, 22.616]
+	},
+	{
+		"City": "Indore",
+		"Latitude__": 22.717,
+		"Longitude": 75.833,
+		"type": "Point",
+		"coordinates": [75.833, 22.717]
+	},
+	{
+		"City": "Imphal",
+		"Latitude__": 24.816,
+		"Longitude": 93.95,
+		"type": "Point",
+		"coordinates": [93.95, 24.816]
+	},
+	{
+		"City": "Ichalkaranji",
+		"Latitude__": 16.7,
+		"Longitude": 74.466,
+		"type": "Point",
+		"coordinates": [74.466, 16.7]
+	},
+	{
+		"City": "Hyderabad",
+		"Latitude__": 17.375,
+		"Longitude": 78.474,
+		"type": "Point",
+		"coordinates": [78.474, 17.375]
+	},
+	{
+		"City": "Hubli-Dharwad",
+		"Latitude__": 15.35,
+		"Longitude": 75.166,
+		"type": "Point",
+		"coordinates": [75.166, 15.35]
+	},
+	{
+		"City": "Hosur",
+		"Latitude__": 12.716,
+		"Longitude": 77.816,
+		"type": "Point",
+		"coordinates": [77.816, 12.716]
+	},
+	{
+		"City": "Hospet",
+		"Latitude__": 15.266,
+		"Longitude": 76.4,
+		"type": "Point",
+		"coordinates": [76.4, 15.266]
+	},
+	{
+		"City": "Hoshiarpur",
+		"Latitude__": 31.532,
+		"Longitude": 75.917,
+		"type": "Point",
+		"coordinates": [75.917, 31.532]
+	},
+	{
+		"City": "Hoshangabad",
+		"Latitude__": 22.75,
+		"Longitude": 77.716,
+		"type": "Point",
+		"coordinates": [77.716, 22.75]
+	},
+	{
+		"City": "Hisar",
+		"Latitude__": 29.166,
+		"Longitude": 75.716,
+		"type": "Point",
+		"coordinates": [75.716, 29.166]
+	},
+	{
+		"City": "Hinganghat",
+		"Latitude__": 20.566,
+		"Longitude": 78.833,
+		"type": "Point",
+		"coordinates": [78.833, 20.566]
+	},
+	{
+		"City": "Hindupur",
+		"Latitude__": 13.828,
+		"Longitude": 77.493,
+		"type": "Point",
+		"coordinates": [77.493, 13.828]
+	},
+	{
+		"City": "Hindaun",
+		"Latitude__": 26.716,
+		"Longitude": 77.016,
+		"type": "Point",
+		"coordinates": [77.016, 26.716]
+	},
+	{
+		"City": "Hazaribag",
+		"Latitude__": 23.983,
+		"Longitude": 85.35,
+		"type": "Point",
+		"coordinates": [85.35, 23.983]
+	},
+	{
+		"City": "Hathras",
+		"Latitude__": 27.6,
+		"Longitude": 78.05,
+		"type": "Point",
+		"coordinates": [78.05, 27.6]
+	},
+	{
+		"City": "Hassan",
+		"Latitude__": 13.0,
+		"Longitude": 76.099,
+		"type": "Point",
+		"coordinates": [76.099, 13.0]
+	},
+	{
+		"City": "Hardoi",
+		"Latitude__": 27.416,
+		"Longitude": 80.116,
+		"type": "Point",
+		"coordinates": [80.116, 27.416]
+	},
+	{
+		"City": "Hapur",
+		"Latitude__": 28.716,
+		"Longitude": 77.783,
+		"type": "Point",
+		"coordinates": [77.783, 28.716]
+	},
+	{
+		"City": "Hanumangarh",
+		"Latitude__": 29.583,
+		"Longitude": 74.316,
+		"type": "Point",
+		"coordinates": [74.316, 29.583]
+	},
+	{
+		"City": "Haldwani",
+		"Latitude__": 29.216,
+		"Longitude": 79.516,
+		"type": "Point",
+		"coordinates": [79.516, 29.216]
+	},
+	{
+		"City": "Haldia",
+		"Latitude__": 22.06,
+		"Longitude": 88.109,
+		"type": "Point",
+		"coordinates": [88.109, 22.06]
+	},
+	{
+		"City": "Hajipur",
+		"Latitude__": 25.683,
+		"Longitude": 85.216,
+		"type": "Point",
+		"coordinates": [85.216, 25.683]
+	},
+	{
+		"City": "Habra",
+		"Latitude__": 22.834,
+		"Longitude": 88.627,
+		"type": "Point",
+		"coordinates": [88.627, 22.834]
+	},
+	{
+		"City": "Gwalior",
+		"Latitude__": 26.223,
+		"Longitude": 78.179,
+		"type": "Point",
+		"coordinates": [78.179, 26.223]
+	},
+	{
+		"City": "Guwahati",
+		"Latitude__": 26.186,
+		"Longitude": 91.75,
+		"type": "Point",
+		"coordinates": [91.75, 26.186]
+	},
+	{
+		"City": "Gurgaon",
+		"Latitude__": 28.466,
+		"Longitude": 77.033,
+		"type": "Point",
+		"coordinates": [77.033, 28.466]
+	},
+	{
+		"City": "Guntur",
+		"Latitude__": 16.3,
+		"Longitude": 80.45,
+		"type": "Point",
+		"coordinates": [80.45, 16.3]
+	},
+	{
+		"City": "Guntakal",
+		"Latitude__": 15.166,
+		"Longitude": 77.383,
+		"type": "Point",
+		"coordinates": [77.383, 15.166]
+	},
+	{
+		"City": "Guna",
+		"Latitude__": 24.65,
+		"Longitude": 77.316,
+		"type": "Point",
+		"coordinates": [77.316, 24.65]
+	},
+	{
+		"City": "Gulbarga",
+		"Latitude__": 17.333,
+		"Longitude": 76.833,
+		"type": "Point",
+		"coordinates": [76.833, 17.333]
+	},
+	{
+		"City": "Gudivada",
+		"Latitude__": 16.45,
+		"Longitude": 80.983,
+		"type": "Point",
+		"coordinates": [80.983, 16.45]
+	},
+	{
+		"City": "Gondal",
+		"Latitude__": 21.966,
+		"Longitude": 70.8,
+		"type": "Point",
+		"coordinates": [70.8, 21.966]
+	},
+	{
+		"City": "Gonda",
+		"Latitude__": 27.133,
+		"Longitude": 81.933,
+		"type": "Point",
+		"coordinates": [81.933, 27.133]
+	},
+	{
+		"City": "Godhra",
+		"Latitude__": 22.75,
+		"Longitude": 73.633,
+		"type": "Point",
+		"coordinates": [73.633, 22.75]
+	},
+	{
+		"City": "Giridih",
+		"Latitude__": 24.183,
+		"Longitude": 86.3,
+		"type": "Point",
+		"coordinates": [86.3, 24.183]
+	},
+	{
+		"City": "Ghazipur",
+		"Latitude__": 25.583,
+		"Longitude": 83.566,
+		"type": "Point",
+		"coordinates": [83.566, 25.583]
+	},
+	{
+		"City": "Ghaziabad",
+		"Latitude__": 28.666,
+		"Longitude": 77.433,
+		"type": "Point",
+		"coordinates": [77.433, 28.666]
+	},
+	{
+		"City": "Gaya",
+		"Latitude__": 24.783,
+		"Longitude": 85.0,
+		"type": "Point",
+		"coordinates": [85.0, 24.783]
+	},
+	{
+		"City": "Gangawati",
+		"Latitude__": 15.433,
+		"Longitude": 76.533,
+		"type": "Point",
+		"coordinates": [76.533, 15.433]
+	},
+	{
+		"City": "Ganganagar",
+		"Latitude__": 29.916,
+		"Longitude": 73.883,
+		"type": "Point",
+		"coordinates": [73.883, 29.916]
+	},
+	{
+		"City": "Firozpur",
+		"Latitude__": 30.916,
+		"Longitude": 74.6,
+		"type": "Point",
+		"coordinates": [74.6, 30.916]
+	},
+	{
+		"City": "Firozabad",
+		"Latitude__": 27.15,
+		"Longitude": 78.416,
+		"type": "Point",
+		"coordinates": [78.416, 27.15]
+	},
+	{
+		"City": "Fatehpur",
+		"Latitude__": 27.983,
+		"Longitude": 74.95,
+		"type": "Point",
+		"coordinates": [74.95, 27.983]
+	},
+	{
+		"City": "Faridabad",
+		"Latitude__": 28.433,
+		"Longitude": 77.316,
+		"type": "Point",
+		"coordinates": [77.316, 28.433]
+	},
+	{
+		"City": "Faizabad",
+		"Latitude__": 26.783,
+		"Longitude": 82.133,
+		"type": "Point",
+		"coordinates": [82.133, 26.783]
+	},
+	{
+		"City": "Etawah",
+		"Latitude__": 26.776,
+		"Longitude": 79.023,
+		"type": "Point",
+		"coordinates": [79.023, 26.776]
+	},
+	{
+		"City": "Erode",
+		"Latitude__": 11.35,
+		"Longitude": 77.733,
+		"type": "Point",
+		"coordinates": [77.733, 11.35]
+	},
+	{
+		"City": "Eluru",
+		"Latitude__": 16.7,
+		"Longitude": 81.1,
+		"type": "Point",
+		"coordinates": [81.1, 16.7]
+	},
+	{
+		"City": "Dindigul",
+		"Latitude__": 10.35,
+		"Longitude": 77.95,
+		"type": "Point",
+		"coordinates": [77.95, 10.35]
+	},
+	{
+		"City": "Dimapur",
+		"Latitude__": 25.9,
+		"Longitude": 93.733,
+		"type": "Point",
+		"coordinates": [93.733, 25.9]
+	},
+	{
+		"City": "Dibrugarh",
+		"Latitude__": 27.483,
+		"Longitude": 94.9,
+		"type": "Point",
+		"coordinates": [94.9, 27.483]
+	},
+	{
+		"City": "Dhulian",
+		"Latitude__": 24.683,
+		"Longitude": 87.966,
+		"type": "Point",
+		"coordinates": [87.966, 24.683]
+	},
+	{
+		"City": "Dhule",
+		"Latitude__": 20.9,
+		"Longitude": 74.783,
+		"type": "Point",
+		"coordinates": [74.783, 20.9]
+	},
+	{
+		"City": "Dhaulpur",
+		"Latitude__": 26.7,
+		"Longitude": 77.9,
+		"type": "Point",
+		"coordinates": [77.9, 26.7]
+	},
+	{
+		"City": "Dharmavaram",
+		"Latitude__": 14.433,
+		"Longitude": 77.716,
+		"type": "Point",
+		"coordinates": [77.716, 14.433]
+	},
+	{
+		"City": "Dhanbad",
+		"Latitude__": 23.8,
+		"Longitude": 86.45,
+		"type": "Point",
+		"coordinates": [86.45, 23.8]
+	},
+	{
+		"City": "Dhamtari",
+		"Latitude__": 20.707,
+		"Longitude": 81.549,
+		"type": "Point",
+		"coordinates": [81.549, 20.707]
+	},
+	{
+		"City": "Dewas",
+		"Latitude__": 22.966,
+		"Longitude": 76.066,
+		"type": "Point",
+		"coordinates": [76.066, 22.966]
+	},
+	{
+		"City": "Deoria",
+		"Latitude__": 26.504,
+		"Longitude": 83.787,
+		"type": "Point",
+		"coordinates": [83.787, 26.504]
+	},
+	{
+		"City": "Delhi",
+		"Latitude__": 28.666,
+		"Longitude": 77.216,
+		"type": "Point",
+		"coordinates": [77.216, 28.666]
+	},
+	{
+		"City": "Dehri",
+		"Latitude__": 24.866,
+		"Longitude": 84.183,
+		"type": "Point",
+		"coordinates": [84.183, 24.866]
+	},
+	{
+		"City": "Dehradun",
+		"Latitude__": 30.316,
+		"Longitude": 78.033,
+		"type": "Point",
+		"coordinates": [78.033, 30.316]
+	},
+	{
+		"City": "Deesa",
+		"Latitude__": 24.25,
+		"Longitude": 72.166,
+		"type": "Point",
+		"coordinates": [72.166, 24.25]
+	},
+	{
+		"City": "Datia",
+		"Latitude__": 25.666,
+		"Longitude": 78.466,
+		"type": "Point",
+		"coordinates": [78.466, 25.666]
+	},
+	{
+		"City": "Darjiling",
+		"Latitude__": 27.033,
+		"Longitude": 88.266,
+		"type": "Point",
+		"coordinates": [88.266, 27.033]
+	},
+	{
+		"City": "Darbhanga",
+		"Latitude__": 26.166,
+		"Longitude": 85.9,
+		"type": "Point",
+		"coordinates": [85.9, 26.166]
+	},
+	{
+		"City": "Damoh",
+		"Latitude__": 23.833,
+		"Longitude": 79.45,
+		"type": "Point",
+		"coordinates": [79.45, 23.833]
+	},
+	{
+		"City": "Cuttack",
+		"Latitude__": 20.464,
+		"Longitude": 85.879,
+		"type": "Point",
+		"coordinates": [85.879, 20.464]
+	},
+	{
+		"City": "Cuddalore",
+		"Latitude__": 11.75,
+		"Longitude": 79.75,
+		"type": "Point",
+		"coordinates": [79.75, 11.75]
+	},
+	{
+		"City": "Coimbatore",
+		"Latitude__": 11.0,
+		"Longitude": 76.966,
+		"type": "Point",
+		"coordinates": [76.966, 11.0]
+	},
+	{
+		"City": "Churu",
+		"Latitude__": 28.3,
+		"Longitude": 74.95,
+		"type": "Point",
+		"coordinates": [74.95, 28.3]
+	},
+	{
+		"City": "Chittaurgarh",
+		"Latitude__": 24.883,
+		"Longitude": 74.633,
+		"type": "Point",
+		"coordinates": [74.633, 24.883]
+	},
+	{
+		"City": "Chitradurga",
+		"Latitude__": 14.233,
+		"Longitude": 76.4,
+		"type": "Point",
+		"coordinates": [76.4, 14.233]
+	},
+	{
+		"City": "Chirala",
+		"Latitude__": 15.816,
+		"Longitude": 80.35,
+		"type": "Point",
+		"coordinates": [80.35, 15.816]
+	},
+	{
+		"City": "Chikmagalur",
+		"Latitude__": 13.316,
+		"Longitude": 75.783,
+		"type": "Point",
+		"coordinates": [75.783, 13.316]
+	},
+	{
+		"City": "Chhindwara",
+		"Latitude__": 22.066,
+		"Longitude": 78.933,
+		"type": "Point",
+		"coordinates": [78.933, 22.066]
+	},
+	{
+		"City": "Chennai",
+		"Latitude__": 13.087,
+		"Longitude": 80.278,
+		"type": "Point",
+		"coordinates": [80.278, 13.087]
+	},
+	{
+		"City": "Chandrapur",
+		"Latitude__": 19.95,
+		"Longitude": 79.3,
+		"type": "Point",
+		"coordinates": [79.3, 19.95]
+	},
+	{
+		"City": "Chandigarh",
+		"Latitude__": 30.734,
+		"Longitude": 76.793,
+		"type": "Point",
+		"coordinates": [76.793, 30.734]
+	},
+	{
+		"City": "Chandausi",
+		"Latitude__": 28.45,
+		"Longitude": 78.766,
+		"type": "Point",
+		"coordinates": [78.766, 28.45]
+	},
+	{
+		"City": "Buxar",
+		"Latitude__": 25.583,
+		"Longitude": 83.983,
+		"type": "Point",
+		"coordinates": [83.983, 25.583]
+	},
+	{
+		"City": "Burhanpur",
+		"Latitude__": 21.3,
+		"Longitude": 76.233,
+		"type": "Point",
+		"coordinates": [76.233, 21.3]
+	},
+	{
+		"City": "Bundi",
+		"Latitude__": 25.441,
+		"Longitude": 75.641,
+		"type": "Point",
+		"coordinates": [75.641, 25.441]
+	},
+	{
+		"City": "Bulandshahr",
+		"Latitude__": 28.4,
+		"Longitude": 77.85,
+		"type": "Point",
+		"coordinates": [77.85, 28.4]
+	},
+	{
+		"City": "Budaun",
+		"Latitude__": 28.05,
+		"Longitude": 79.116,
+		"type": "Point",
+		"coordinates": [79.116, 28.05]
+	},
+	{
+		"City": "Brahmapur Town",
+		"Latitude__": 19.316,
+		"Longitude": 84.783,
+		"type": "Point",
+		"coordinates": [84.783, 19.316]
+	},
+	{
+		"City": "Botad",
+		"Latitude__": 22.166,
+		"Longitude": 71.666,
+		"type": "Point",
+		"coordinates": [71.666, 22.166]
+	},
+	{
+		"City": "Bokaro",
+		"Latitude__": 23.783,
+		"Longitude": 85.966,
+		"type": "Point",
+		"coordinates": [85.966, 23.783]
+	},
+	{
+		"City": "Bikaner",
+		"Latitude__": 28.016,
+		"Longitude": 73.3,
+		"type": "Point",
+		"coordinates": [73.3, 28.016]
+	},
+	{
+		"City": "Bijnor",
+		"Latitude__": 29.366,
+		"Longitude": 78.133,
+		"type": "Point",
+		"coordinates": [78.133, 29.366]
+	},
+	{
+		"City": "Bijapur",
+		"Latitude__": 16.833,
+		"Longitude": 75.7,
+		"type": "Point",
+		"coordinates": [75.7, 16.833]
+	},
+	{
+		"City": "Biharsharif",
+		"Latitude__": 25.183,
+		"Longitude": 85.516,
+		"type": "Point",
+		"coordinates": [85.516, 25.183]
+	},
+	{
+		"City": "Bidar",
+		"Latitude__": 17.9,
+		"Longitude": 77.55,
+		"type": "Point",
+		"coordinates": [77.55, 17.9]
+	},
+	{
+		"City": "Bhusawal",
+		"Latitude__": 21.05,
+		"Longitude": 75.766,
+		"type": "Point",
+		"coordinates": [75.766, 21.05]
+	},
+	{
+		"City": "Bhuj",
+		"Latitude__": 23.266,
+		"Longitude": 69.666,
+		"type": "Point",
+		"coordinates": [69.666, 23.266]
+	},
+	{
+		"City": "Bhubaneswar",
+		"Latitude__": 20.233,
+		"Longitude": 85.833,
+		"type": "Point",
+		"coordinates": [85.833, 20.233]
+	},
+	{
+		"City": "Bhopal",
+		"Latitude__": 23.266,
+		"Longitude": 77.4,
+		"type": "Point",
+		"coordinates": [77.4, 23.266]
+	},
+	{
+		"City": "Bhiwani",
+		"Latitude__": 28.783,
+		"Longitude": 76.133,
+		"type": "Point",
+		"coordinates": [76.133, 28.783]
+	},
+	{
+		"City": "Bhiwandi",
+		"Latitude__": 19.3,
+		"Longitude": 73.066,
+		"type": "Point",
+		"coordinates": [73.066, 19.3]
+	},
+	{
+		"City": "Bhiwadi",
+		"Latitude__": 28.21,
+		"Longitude": 76.86,
+		"type": "Point",
+		"coordinates": [76.86, 28.21]
+	},
+	{
+		"City": "Bhind",
+		"Latitude__": 26.564,
+		"Longitude": 78.788,
+		"type": "Point",
+		"coordinates": [78.788, 26.564]
+	},
+	{
+		"City": "Bhimavaram",
+		"Latitude__": 16.533,
+		"Longitude": 81.533,
+		"type": "Point",
+		"coordinates": [81.533, 16.533]
+	},
+	{
+		"City": "Bhilwara",
+		"Latitude__": 25.35,
+		"Longitude": 74.633,
+		"type": "Point",
+		"coordinates": [74.633, 25.35]
+	},
+	{
+		"City": "Bhavnagar",
+		"Latitude__": 21.766,
+		"Longitude": 72.15,
+		"type": "Point",
+		"coordinates": [72.15, 21.766]
+	},
+	{
+		"City": "Bharuch",
+		"Latitude__": 21.7,
+		"Longitude": 72.966,
+		"type": "Point",
+		"coordinates": [72.966, 21.7]
+	},
+	{
+		"City": "Bharatpur",
+		"Latitude__": 27.216,
+		"Longitude": 77.483,
+		"type": "Point",
+		"coordinates": [77.483, 27.216]
+	},
+	{
+		"City": "Bhagalpur",
+		"Latitude__": 25.25,
+		"Longitude": 87.0,
+		"type": "Point",
+		"coordinates": [87.0, 25.25]
+	},
+	{
+		"City": "Bhadravati",
+		"Latitude__": 13.866,
+		"Longitude": 75.716,
+		"type": "Point",
+		"coordinates": [75.716, 13.866]
+	},
+	{
+		"City": "Bhadrak",
+		"Latitude__": 21.052,
+		"Longitude": 86.52,
+		"type": "Point",
+		"coordinates": [86.52, 21.052]
+	},
+	{
+		"City": "Betul",
+		"Latitude__": 21.915,
+		"Longitude": 77.896,
+		"type": "Point",
+		"coordinates": [77.896, 21.915]
+	},
+	{
+		"City": "Bettiah",
+		"Latitude__": 26.8,
+		"Longitude": 84.5,
+		"type": "Point",
+		"coordinates": [84.5, 26.8]
+	},
+	{
+		"City": "Bellary",
+		"Latitude__": 15.15,
+		"Longitude": 76.933,
+		"type": "Point",
+		"coordinates": [76.933, 15.15]
+	},
+	{
+		"City": "Belgaum",
+		"Latitude__": 15.866,
+		"Longitude": 74.5,
+		"type": "Point",
+		"coordinates": [74.5, 15.866]
+	},
+	{
+		"City": "Begusarai",
+		"Latitude__": 25.416,
+		"Longitude": 86.133,
+		"type": "Point",
+		"coordinates": [86.133, 25.416]
+	},
+	{
+		"City": "Beawar",
+		"Latitude__": 26.1,
+		"Longitude": 74.316,
+		"type": "Point",
+		"coordinates": [74.316, 26.1]
+	},
+	{
+		"City": "Bathinda",
+		"Latitude__": 30.2,
+		"Longitude": 74.95,
+		"type": "Point",
+		"coordinates": [74.95, 30.2]
+	},
+	{
+		"City": "Batala",
+		"Latitude__": 31.818,
+		"Longitude": 75.202,
+		"type": "Point",
+		"coordinates": [75.202, 31.818]
+	},
+	{
+		"City": "Basti",
+		"Latitude__": 26.8,
+		"Longitude": 82.716,
+		"type": "Point",
+		"coordinates": [82.716, 26.8]
+	},
+	{
+		"City": "Barnala",
+		"Latitude__": 30.383,
+		"Longitude": 75.55,
+		"type": "Point",
+		"coordinates": [75.55, 30.383]
+	},
+	{
+		"City": "Bareilly",
+		"Latitude__": 28.35,
+		"Longitude": 79.416,
+		"type": "Point",
+		"coordinates": [79.416, 28.35]
+	},
+	{
+		"City": "Barddhaman",
+		"Latitude__": 23.25,
+		"Longitude": 87.85,
+		"type": "Point",
+		"coordinates": [87.85, 23.25]
+	},
+	{
+		"City": "Baraut",
+		"Latitude__": 29.1,
+		"Longitude": 77.266,
+		"type": "Point",
+		"coordinates": [77.266, 29.1]
+	},
+	{
+		"City": "Baran",
+		"Latitude__": 25.1,
+		"Longitude": 76.516,
+		"type": "Point",
+		"coordinates": [76.516, 25.1]
+	},
+	{
+		"City": "Banswara",
+		"Latitude__": 23.55,
+		"Longitude": 74.45,
+		"type": "Point",
+		"coordinates": [74.45, 23.55]
+	},
+	{
+		"City": "Bankura",
+		"Latitude__": 23.25,
+		"Longitude": 87.066,
+		"type": "Point",
+		"coordinates": [87.066, 23.25]
+	},
+	{
+		"City": "BANGALORE",
+		"Latitude__": 12.976,
+		"Longitude": 77.603,
+		"type": "Point",
+		"coordinates": [77.603, 12.976]
+	},
+	{
+		"City": "Balurghat",
+		"Latitude__": 25.216,
+		"Longitude": 88.766,
+		"type": "Point",
+		"coordinates": [88.766, 25.216]
+	},
+	{
+		"City": "Baleshwar",
+		"Latitude__": 21.494,
+		"Longitude": 86.931,
+		"type": "Point",
+		"coordinates": [86.931, 21.494]
+	},
+	{
+		"City": "Bahraich",
+		"Latitude__": 27.583,
+		"Longitude": 81.6,
+		"type": "Point",
+		"coordinates": [81.6, 27.583]
+	},
+	{
+		"City": "Baharampur",
+		"Latitude__": 24.1,
+		"Longitude": 88.25,
+		"type": "Point",
+		"coordinates": [88.25, 24.1]
+	},
+	{
+		"City": "Bahadurgarh",
+		"Latitude__": 28.683,
+		"Longitude": 76.916,
+		"type": "Point",
+		"coordinates": [76.916, 28.683]
+	},
+	{
+		"City": "Bagalkot",
+		"Latitude__": 16.183,
+		"Longitude": 75.7,
+		"type": "Point",
+		"coordinates": [75.7, 16.183]
+	},
+	{
+		"City": "Bagaha",
+		"Latitude__": 27.1,
+		"Longitude": 84.083,
+		"type": "Point",
+		"coordinates": [84.083, 27.1]
+	},
+	{
+		"City": "Azamgarh",
+		"Latitude__": 26.06,
+		"Longitude": 83.186,
+		"type": "Point",
+		"coordinates": [83.186, 26.06]
+	},
+	{
+		"City": "Asansol",
+		"Latitude__": 23.683,
+		"Longitude": 86.983,
+		"type": "Point",
+		"coordinates": [86.983, 23.683]
+	},
+	{
+		"City": "Arrah",
+		"Latitude__": 25.566,
+		"Longitude": 84.666,
+		"type": "Point",
+		"coordinates": [84.666, 25.566]
+	},
+	{
+		"City": "Anklesvar",
+		"Latitude__": 21.6,
+		"Longitude": 73.0,
+		"type": "Point",
+		"coordinates": [73.0, 21.6]
+	},
+	{
+		"City": "Anantnag",
+		"Latitude__": 33.733,
+		"Longitude": 75.15,
+		"type": "Point",
+		"coordinates": [75.15, 33.733]
+	},
+	{
+		"City": "Anantapur",
+		"Latitude__": 14.683,
+		"Longitude": 77.6,
+		"type": "Point",
+		"coordinates": [77.6, 14.683]
+	},
+	{
+		"City": "Anand",
+		"Latitude__": 22.566,
+		"Longitude": 72.933,
+		"type": "Point",
+		"coordinates": [72.933, 22.566]
+	},
+	{
+		"City": "Amroha",
+		"Latitude__": 28.916,
+		"Longitude": 78.466,
+		"type": "Point",
+		"coordinates": [78.466, 28.916]
+	},
+	{
+		"City": "Amritsar",
+		"Latitude__": 31.633,
+		"Longitude": 74.865,
+		"type": "Point",
+		"coordinates": [74.865, 31.633]
+	},
+	{
+		"City": "Amreli",
+		"Latitude__": 21.616,
+		"Longitude": 71.233,
+		"type": "Point",
+		"coordinates": [71.233, 21.616]
+	},
+	{
+		"City": "Amravati",
+		"Latitude__": 20.933,
+		"Longitude": 77.75,
+		"type": "Point",
+		"coordinates": [77.75, 20.933]
+	},
+	{
+		"City": "Ambur",
+		"Latitude__": 12.783,
+		"Longitude": 78.7,
+		"type": "Point",
+		"coordinates": [78.7, 12.783]
+	},
+	{
+		"City": "Ambikapur",
+		"Latitude__": 23.116,
+		"Longitude": 83.2,
+		"type": "Point",
+		"coordinates": [83.2, 23.116]
+	},
+	{
+		"City": "Ambala",
+		"Latitude__": 30.378,
+		"Longitude": 76.78,
+		"type": "Point",
+		"coordinates": [76.78, 30.378]
+	},
+	{
+		"City": "Alwar",
+		"Latitude__": 27.566,
+		"Longitude": 76.6,
+		"type": "Point",
+		"coordinates": [76.6, 27.566]
+	},
+	{
+		"City": "Allahabad",
+		"Latitude__": 25.45,
+		"Longitude": 81.85,
+		"type": "Point",
+		"coordinates": [81.85, 25.45]
+	},
+	{
+		"City": "Aligarh",
+		"Latitude__": 27.883,
+		"Longitude": 78.083,
+		"type": "Point",
+		"coordinates": [78.083, 27.883]
+	},
+	{
+		"City": "Alappuzha",
+		"Latitude__": 9.49,
+		"Longitude": 76.326,
+		"type": "Point",
+		"coordinates": [76.326, 9.49]
+	},
+	{
+		"City": "Akola",
+		"Latitude__": 20.733,
+		"Longitude": 77.0,
+		"type": "Point",
+		"coordinates": [77.0, 20.733]
+	},
+	{
+		"City": "Ajmer",
+		"Latitude__": 26.45,
+		"Longitude": 74.633,
+		"type": "Point",
+		"coordinates": [74.633, 26.45]
+	},
+	{
+		"City": "Aizawl",
+		"Latitude__": 23.733,
+		"Longitude": 92.716,
+		"type": "Point",
+		"coordinates": [92.716, 23.733]
+	},
+	{
+		"City": "Ahmadnagar",
+		"Latitude__": 19.083,
+		"Longitude": 74.733,
+		"type": "Point",
+		"coordinates": [74.733, 19.083]
+	},
+	{
+		"City": "Ahmadabad",
+		"Latitude__": 23.033,
+		"Longitude": 72.616,
+		"type": "Point",
+		"coordinates": [72.616, 23.033]
+	},
+	{
+		"City": "Agra",
+		"Latitude__": 27.183,
+		"Longitude": 78.016,
+		"type": "Point",
+		"coordinates": [78.016, 27.183]
+	},
+	{
+		"City": "Agartala",
+		"Latitude__": 23.836,
+		"Longitude": 91.275,
+		"type": "Point",
+		"coordinates": [91.275, 23.836]
+	},
+	{
+		"City": "Adoni",
+		"Latitude__": 15.633,
+		"Longitude": 77.283,
+		"type": "Point",
+		"coordinates": [77.283, 15.633]
+	},
+	{
+		"City": "Adilabad",
+		"Latitude__": 19.666,
+		"Longitude": 78.533,
+		"type": "Point",
+		"coordinates": [78.533, 19.666]
+	},
+	{
+		"City": "Achalpur",
+		"Latitude__": 21.257,
+		"Longitude": 77.508,
+		"type": "Point",
+		"coordinates": [77.508, 21.257]
+	},
+	{
+		"City": "Abohar",
+		"Latitude__": 30.15,
+		"Longitude": 74.183,
+		"type": "Point",
+		"coordinates": [74.183, 30.15]
+	},
+	{
+		"City": "Srinagar",
+		"Latitude__": 0.0,
+		"Longitude": 74.811,
+		"type": "Point",
+		"coordinates": [74.811, 34.083]
+	},
+	{
+		"City": "S.A.S. Nagar",
+		"Latitude__": 0.0,
+		"Longitude": 76.584,
+		"type": "Point",
+		"coordinates": [76.664235425116843, 30.69097270987405]
+	},
+	{
+		"City": "Rudrapur",
+		"Latitude__": 0.0,
+		"Longitude": 76.584,
+		"type": "Point",
+		"coordinates": [79.418413950145066, 28.980901674198229]
+	},
+	{
+		"City": "Sujangarh",
+		"Latitude__": 0.0,
+		"Longitude": 74.811,
+		"type": "Point",
+		"coordinates": [74.465978154154612, 27.710803426386509]
+	},
+	{
+		"City": "Sultanpur",
+		"Latitude__": 0.0,
+		"Longitude": 82.065,
+		"type": "Point",
+		"coordinates": [82.065, 26.271]
+	},
+	{
+		"City": "Sasaram",
+		"Latitude__": 0.0,
+		"Longitude": 84.005,
+		"type": "Point",
+		"coordinates": [84.005, 24.968]
+	},
+	{
+		"City": "Santipur",
+		"Latitude__": 0.0,
+		"Longitude": 74.6,
+		"type": "Point",
+		"coordinates": [88.444893862424195, 23.252090746755208]
+	},
+	{
+		"City": "Sagar",
+		"Latitude__": 0.0,
+		"Longitude": 78.744,
+		"type": "Point",
+		"coordinates": [78.744, 23.85]
+	},
+	{
+		"City": "Wadhwan",
+		"Latitude__": 0.0,
+		"Longitude": 83.4,
+		"type": "Point",
+		"coordinates": [71.681630438487019, 22.710407956850101]
+	},
+	{
+		"City": "Vasai Virar City",
+		"Latitude__": 0.0,
+		"Longitude": 83.001,
+		"type": "Point",
+		"coordinates": [72.808697754576286, 19.459268569589728]
+	},
+	{
+		"City": "Sangali",
+		"Latitude__": 0.0,
+		"Longitude": 78.562,
+		"type": "Point",
+		"coordinates": [74.566884971210953, 16.850925995848549]
+	},
+	{
+		"City": "Tenali",
+		"Latitude__": 0.0,
+		"Longitude": 80.641,
+		"type": "Point",
+		"coordinates": [80.641, 16.241]
+	},
+	{
+		"City": "Suryapet",
+		"Latitude__": 0.0,
+		"Longitude": 71.642,
+		"type": "Point",
+		"coordinates": [79.619856860347767, 17.147498318623906]
+	},
+	{
+		"City": "Tadepalligudem",
+		"Latitude__": 0.0,
+		"Longitude": 81.52,
+		"type": "Point",
+		"coordinates": [81.52, 16.817]
+	},
+	{
+		"City": "Thoothukkudi",
+		"Latitude__": 0.0,
+		"Longitude": 76.941,
+		"type": "Point",
+		"coordinates": [78.151848219341886, 8.804894115114719]
+	},
+	{
+		"City": "Murwara (Katni)",
+		"Latitude__": 0.0,
+		"Longitude": 80.383,
+		"type": "Point",
+		"coordinates": [80.383, 23.836]
+	},
+	{
+		"City": "Chhattarpur",
+		"Latitude__": 0.0,
+		"Longitude": 79.581,
+		"type": "Point",
+		"coordinates": [79.581, 24.926]
+	},
+	{
+		"City": "Neemuch",
+		"Latitude__": 0.0,
+		"Longitude": 72.929,
+		"type": "Point",
+		"coordinates": [75.10858628134055, 24.574539650873689]
+	},
+	{
+		"City": "Navsari",
+		"Latitude__": 0.0,
+		"Longitude": 72.929,
+		"type": "Point",
+		"coordinates": [72.929, 20.953]
+	},
+	{
+		"City": "Gandhidham",
+		"Latitude__": 0.0,
+		"Longitude": 70.109,
+		"type": "Point",
+		"coordinates": [70.109, 23.071]
+	},
+	{
+		"City": "Mahesana",
+		"Latitude__": 0.0,
+		"Longitude": 72.374,
+		"type": "Point",
+		"coordinates": [72.374, 23.606]
+	},
+	{
+		"City": "Dohad",
+		"Latitude__": 0.0,
+		"Longitude": 77.971,
+		"type": "Point",
+		"coordinates": [74.254876774144563, 22.837970535802132]
+	},
+	{
+		"City": "Jetpur Navagadh",
+		"Latitude__": 0.0,
+		"Longitude": 70.608,
+		"type": "Point",
+		"coordinates": [70.608, 21.765]
+	},
+	{
+		"City": "Aurangabad",
+		"Latitude__": 0.0,
+		"Longitude": 75.33,
+		"type": "Point",
+		"coordinates": [75.33, 19.886]
+	},
+	{
+		"City": "Nanded Waghala",
+		"Latitude__": 0.0,
+		"Longitude": 77.312,
+		"type": "Point",
+		"coordinates": [77.312, 19.164]
+	}, {
+		"City": "Jalgaon",
+		"Latitude__": 0.0,
+		"Longitude": 75.561,
+		"type": "Point",
+		"coordinates": [75.561, 21.017]
+	},
+	{
+		"City": "Navi Mumbai",
+		"Latitude__": 0.0,
+		"Longitude": 73.773,
+		"type": "Point",
+		"coordinates": [73.03691373784639, 19.033910026002427]
+	},
+	{
+		"City": "Bid",
+		"Latitude__": 0.0,
+		"Longitude": 75.745,
+		"type": "Point",
+		"coordinates": [75.745, 18.999]
+	},
+	{
+		"City": "Kamptee",
+		"Latitude__": 0.0,
+		"Longitude": 73.126,
+		"type": "Point",
+		"coordinates": [79.084503483139812, 21.246065336377011]
+	},
+	{
+		"City": "Gondiya",
+		"Latitude__": 0.0,
+		"Longitude": 80.187,
+		"type": "Point",
+		"coordinates": [80.187, 21.466]
+	},
+	{
+		"City": "Barshi",
+		"Latitude__": 0.0,
+		"Longitude": 79.42,
+		"type": "Point",
+		"coordinates": [75.719343270682415, 18.236573136391129]
+	},
+	{
+		"City": "GVMC",
+		"Latitude__": 0.0,
+		"Longitude": 91.768,
+		"type": "Point",
+		"coordinates": [83.318533968296677, 17.737135715964303]
+	},
+	{
+		"City": "Kurnool",
+		"Latitude__": 0.0,
+		"Longitude": 78.029,
+		"type": "Point",
+		"coordinates": [78.029, 15.828]
+	},
+	{
+		"City": "Ramagundam",
+		"Latitude__": 0.0,
+		"Longitude": 79.498,
+		"type": "Point",
+		"coordinates": [79.498, 18.752]
+	},
+	{
+		"City": "Chittoor",
+		"Latitude__": 0.0,
+		"Longitude": 79.093,
+		"type": "Point",
+		"coordinates": [79.093, 13.22]
+	},
+	{
+		"City": "Kothagudem",
+		"Latitude__": 0.0,
+		"Longitude": 75.848,
+		"type": "Point",
+		"coordinates": [80.647967714011145, 17.554232611062503]
+	},
+	{
+		"City": "Miryalaguda",
+		"Latitude__": 0.0,
+		"Longitude": 77.698,
+		"type": "Point",
+		"coordinates": [79.607517457178901, 16.875880989507383]
+	},
+	{
+		"City": "Chilakaluripet",
+		"Latitude__": 0.0,
+		"Longitude": 75.768,
+		"type": "Point",
+		"coordinates": [80.20688450637644, 16.103020724306873]
+	},
+	{
+		"City": "Davanagere",
+		"Latitude__": 0.0,
+		"Longitude": 75.918,
+		"type": "Point",
+		"coordinates": [75.918, 14.471]
+	},
+	{
+		"City": "Gadag-Betigeri",
+		"Latitude__": 0.0,
+		"Longitude": 75.629,
+		"type": "Point",
+		"coordinates": [75.629, 15.439]
+	},
+	{
+		"City": "Margao",
+		"Latitude__": 0.0,
+		"Longitude": 74.85,
+		"type": "Point",
+		"coordinates": [73.976737810860286, 15.283843598723866]
+	},
+	{
+		"City": "Mormugao",
+		"Latitude__": 0.0,
+		"Longitude": 77.983,
+		"type": "Point",
+		"coordinates": [73.81703967099233, 15.398483162393561]
+	},
+	{
+		"City": "Cherthala",
+		"Latitude__": 0.0,
+		"Longitude": 80.206,
+		"type": "Point",
+		"coordinates": [76.335568727916424, 9.694683215744289]
+	},
+	{
+		"City": "Changanassery",
+		"Latitude__": 0.0,
+		"Longitude": 79.293,
+		"type": "Point",
+		"coordinates": [76.575060666090337, 9.450972084733001]
+	},
+	{
+		"City": "Chalakudy",
+		"Latitude__": 0.0,
+		"Longitude": 76.222,
+		"type": "Point",
+		"coordinates": [76.352632409220064, 10.296243321686459]
+	},
+	{
+		"City": "Kothamangalam",
+		"Latitude__": 0.0,
+		"Longitude": 75.848,
+		"type": "Point",
+		"coordinates": [76.64964041286423, 10.068567259770724]
+	},
+	{
+		"City": "Ranipet",
+		"Latitude__": 0.0,
+		"Longitude": 87.109,
+		"type": "Point",
+		"coordinates": [79.086885164943709, 12.916570120556635]
+	},
+	{
+		"City": "Kancheepuram",
+		"Latitude__": 0.0,
+		"Longitude": 73.126,
+		"type": "Point",
+		"coordinates": [79.7, 12.838]
+	},
+	{
+		"City": "Kumarapalayam",
+		"Latitude__": 0.0,
+		"Longitude": 88.485,
+		"type": "Point",
+		"coordinates": [77.687303388167919, 11.437736942012972]
+	},
+	{
+		"City": "Neyveli",
+		"Latitude__": 0.0,
+		"Longitude": 79.984,
+		"type": "Point",
+		"coordinates": [79.53095062448989, 11.546967405467196]
+	},
+	{
+		"City": "Rajapalayam",
+		"Latitude__": 0.0,
+		"Longitude": 77.561,
+		"type": "Point",
+		"coordinates": [77.561, 9.447]
+	},
+	{
+		"City": "Gudiyatham",
+		"Latitude__": 0.0,
+		"Longitude": 80.988,
+		"type": "Point",
+		"coordinates": [78.863141321793563, 12.9495204349499]
+	},
+	{
+		"City": "Durgapur",
+		"Latitude__": 0.0,
+		"Longitude": 0.0,
+		"type": "Point",
+		"coordinates": [87.292, 23.551]
+	},
+	{
+		"City": "Kharagpur",
+		"Latitude__": 0.0,
+		"Longitude": 0.0,
+		"type": "Point",
+		"coordinates": [87.306, 22.35]
+	},
+	{
+		"City": "Basirhat",
+		"Latitude__": 0.0,
+		"Longitude": 0.0,
+		"type": "Point",
+		"coordinates": [88.853, 22.667]
+	},
+	{
+		"City": "Alipurduar",
+		"Latitude__": 0.0,
+		"Longitude": 0.0,
+		"type": "Point",
+		"coordinates": [89.604644531250003, 27.243797742809999]
+	},
+	{
+		"City": "Medini Nagar",
+		"Latitude__": 0.0,
+		"Longitude": 0.0,
+		"type": "Point",
+		"coordinates": [83.556, 25.953]
+	},
+	{
+		"City": "Chirkunda",
+		"Latitude__": 0.0,
+		"Longitude": 0.0,
+		"type": "Point",
+		"coordinates": [86.787630432130001, 23.74262704034]
+	},
+	{
+		"City": "Raurkela",
+		"Latitude__": 0.0,
+		"Longitude": 0.0,
+		"type": "Point",
+		"coordinates": [84.845, 22.245]
+	},
+	{
+		"City": "Puri Town",
+		"Latitude__": 0.0,
+		"Longitude": 0.0,
+		"type": "Point",
+		"coordinates": [85.822, 19.813]
+	},
+	{
+		"City": "Raipur",
+		"Latitude__": 0.0,
+		"Longitude": 0.0,
+		"type": "Point",
+		"coordinates": [81.63, 21.262]
+	},
+	{
+		"City": "Durg-Bhilainagar",
+		"Latitude__": 0.0,
+		"Longitude": 0.0,
+		"type": "Point",
+		"coordinates": [87.292, 23.551]
+	},
+	{
+		"City": "Bilaspur",
+		"Latitude__": 0.0,
+		"Longitude": 0.0,
+		"type": "Point",
+		"coordinates": [82.149, 22.085]
+	},
+	{
+		"City": "Hardwar",
+		"Latitude__": 0.0,
+		"Longitude": 0.0,
+		"type": "Point",
+		"coordinates": [78.128, 29.953]
+	},
+	{
+		"City": "Jodhpur",
+		"Latitude__": 0.0,
+		"Longitude": 0.0,
+		"type": "Point",
+		"coordinates": [73.015, 26.288]
+	},
+	{
+		"City": "Kota",
+		"Latitude__": 0.0,
+		"Longitude": 0.0,
+		"type": "Point",
+		"coordinates": [75.848, 25.181]
+	},
+	{
+		"City": "Pali",
+		"Latitude__": 0.0,
+		"Longitude": 0.0,
+		"type": "Point",
+		"coordinates": [73.314, 25.787]
+	},
+	{
+		"City": "Gorakhpur",
+		"Latitude__": 0.0,
+		"Longitude": 0.0,
+		"type": "Point",
+		"coordinates": [83.373, 26.773]
+	},
+	{
+		"City": "Rampur",
+		"Latitude__": 0.0,
+		"Longitude": 0.0,
+		"type": "Point",
+		"coordinates": [79.019, 28.807]
+	},
+	{
+		"City": "Fatehgarh",
+		"Latitude__": 0.0,
+		"Longitude": 0.0,
+		"type": "Point",
+		"coordinates": [79.594, 27.387]
+	},
+	{
+		"City": "Maunath Bhanjan",
+		"Latitude__": 0.0,
+		"Longitude": 0.0,
+		"type": "Point",
+		"coordinates": [83.556, 25.953]
+	},
+	{
+		"City": "Modinagar",
+		"Latitude__": 0.0,
+		"Longitude": 0.0,
+		"type": "Point",
+		"coordinates": [77.57, 28.845]
+	},
+	{
+		"City": "Banda",
+		"Latitude__": 0.0,
+		"Longitude": 0.0,
+		"type": "Point",
+		"coordinates": [80.331, 25.486]
+	},
+	{
+		"City": "Barabanki",
+		"Latitude__": 0.0,
+		"Longitude": 0.0,
+		"type": "Point",
+		"coordinates": [81.19667407227, 26.919285119990001]
+	},
+	{
+		"City": "Etah",
+		"Latitude__": 0.0,
+		"Longitude": 0.0,
+		"type": "Point",
+		"coordinates": [78.654, 27.573]
+	},
+	{
+		"City": "Ballia",
+		"Latitude__": 0.0,
+		"Longitude": 0.0,
+		"type": "Point",
+		"coordinates": [84.147, 25.773]
+	},
+	{
+		"City": "Chapra",
+		"Latitude__": 0.0,
+		"Longitude": 0.0,
+		"type": "Point",
+		"coordinates": [84.729, 25.792]
+	},
+	{
+		"City": "Aurangabad",
+		"Latitude__": 0.0,
+		"Longitude": 0.0,
+		"type": "Point",
+		"coordinates": [75.33, 19.886]
+	},
+	{
+		"City": "Nagaon",
+		"Latitude__": 0.0,
+		"Longitude": 0.0,
+		"type": "Point",
+		"coordinates": [92.682, 26.361]
+	}
+]
